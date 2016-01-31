@@ -1,5 +1,5 @@
 # IntersectionLD32
-A game build in 48 hours for the Ludum Dare 32. The theme was "An Unconventional Weapon".
+A game built in 48 hours for the Ludum Dare 32. The theme was "An Unconventional Weapon".
 
 Take control of the traffic lights in a suburban intersection and smash those shady vehicles.
 
